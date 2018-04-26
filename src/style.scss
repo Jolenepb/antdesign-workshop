@@ -3,3 +3,16 @@
   background: rgba(255,255,255,.2);
   margin: 16px;
 }
+.ant-carousel .slick-slide {
+ text-align: center;
+ align-items: center;
+ justify-content: center;
+ height: 300px;
+ line-height: 100%;
+ background-image: url(./img/pup.png);
+ background-size: cover;
+ overflow: hidden;
+}
+.ant-carousel .slick-slide h3 {
+ color: #fff;
+}
